@@ -2,7 +2,7 @@
 
 
 
-Sou aluno de Ciência da Computação na UFMG e tenho muita fome por conhecimentos gerais nas área de computação.
+Sou aluno de Ciência da Computação na UFMG e tenho muita vontade de aprender cada vez mais sobre a área da computação.
 
 
  <div>
